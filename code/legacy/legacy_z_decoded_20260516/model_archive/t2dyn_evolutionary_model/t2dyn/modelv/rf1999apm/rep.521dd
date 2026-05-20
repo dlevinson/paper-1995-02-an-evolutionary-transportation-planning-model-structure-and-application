@@ -1,0 +1,20 @@
+ EMME/2 Module: 5.21        Date: 94-06-09 20:25       User: E950/INRODEMO..BAT           Page:*****
+ Project:       2010 Baseline Forecast Data Base
+ Scenario 1999: 1999
+ Matrix   ms01: zero      A Matrix of zeroes                      
+ ---------------------------------------------------------------------------------------------------
+
+
+ AUTO ASSIGNMENT
+ ***************
+
+ Scenario:                  1999: 1999                                                        
+ Network size:               651  centroids     5298 reg. nodes 
+                           15894  auto links   10422 turn entries
+
+ Demand:                    ms01: zero      A Matrix of zeroes                      
+ Travel time:               mf16: PMAoNT    PM All or Nothing Auto Times Out        
+
+ Stopping criteria:            0  iterations******** min normalized gap
+
+ -------------------------------- Iteration   0 ----------------

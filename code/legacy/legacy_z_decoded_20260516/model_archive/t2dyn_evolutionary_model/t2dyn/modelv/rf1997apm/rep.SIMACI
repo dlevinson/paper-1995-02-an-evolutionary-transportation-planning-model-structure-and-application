@@ -1,0 +1,19 @@
+rep.SIMACI (Simulated Average Congestion Index)
+                     VC1  VC2  VC3  VC4  VC14  VC24
+==============================================================
+00.Washington_DC      .75  .62  .61  .78  .67  .63
+02.Prince_Georges     .82  .64  .74  .76  .76  .69
+03.Alexandria         .73  .55  .54  .73  .63  .55
+04.Arlington          .79  .61  .55  .55  .71  .58
+05.Fairfax            .84  .73  .75  .77  .78  .74
+06.Loudoun            .38  .62  .99  .72  .67  .69
+07.Prince_William     .64  .67  .80  .79  .71  .74
+08.Charles            .00  .00  .00  .00  .00  .00
+09.Frederick          .59  .65  .54  .65  .60  .61
+10.Baltimore_City     .53  .59  .56  .00  .56  .58
+11.Baltimore_Co       .68  .71  .82  .00  .72  .76
+12.Harford            .56  .82  .80  .00  .72  .81
+13.Carroll            .57  .46  .67  .00  .63  .65
+14.Howard             .81  .90  .82  .00  .83  .86
+15.Anne_Arundel       .78  .83  .82  .00  .80  .82
+20.BETHESDA_CHEVY

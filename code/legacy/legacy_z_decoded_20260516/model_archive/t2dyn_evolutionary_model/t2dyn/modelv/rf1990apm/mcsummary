@@ -1,0 +1,21 @@
+rep.SIMACI (Simulated Average Congestion Index)
+                     VC1  VC2  VC3  VC4  VC14  VC24
+==============================================================
+MONTGOMERY COUNTY     .95  .52  .59  .65  .69  .57
+rep.SIMASD (Simulated Average Speed & Delay Index)
+                      FF1  FF2  FF3  FF4  FF14 FF24 CF1  CF2  CF3  CF4 CF14  CF24
+==============================================================
+MONTGOMERY COUNTY      55   43   32   26   43   37  .53  .60  .90 1.13  .66  .74
+rep.SIMLOS (Simulated Level Of Service percentages)
+                    rt    A    B    C    D    E    F
+==============================================================
+MONTGOMERY COUNTY     1  .01  .03  .12  .23  .28  .33
+MONTGOMERY COUNTY     2  .06  .38  .35  .11  .05  .04
+MONTGOMERY COUNTY     3  .10  .26  .28  .20  .10  .06
+MONTGOMERY COUNTY     4  .07  .20  .28  .21  .14  .09
+MONTGOMERY COUNTY    14  .05  .22  .26  .18  .15  .14
+MONTGOMERY COUNTY    24  .08  .31  .32  .15  .08  .06
+rep.SIMVMT (Simulated Vehicle Miles of Travel)
+                      VMT1     VMT2     VMT3     VMT4   VMT1-4  VMT2-4
+==============================================================
+MONTGOMERY COUNTY      530666   581453   344377   183779  1640274  1109608

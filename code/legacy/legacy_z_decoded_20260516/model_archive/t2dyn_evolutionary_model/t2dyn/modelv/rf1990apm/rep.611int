@@ -1,0 +1,18 @@
+ EMME/2 Module: 6.11        Date: 94-06-07 00:07       User: E950/INRODEMO..BAT           Page:*****
+ Project:       2010 Baseline Forecast Data Base
+ Scenario 1990: 1990
+ ---------------------------------------------------------------------------------------------------
+
+
+ AmTO VOLUMES AND TIMES ON TURNS
+ *******************************
+
+     at   from    to     penalty     ------user data------     time       -------volumes--------
+   node   node   node    code        up1      up2      up3     (min)      auto     add.    total
+
+   1304     10   1303       1   44068.12        0        0      .50          9        0        9 
+   1304     10   2208       1   54068.12        0        0      .50         12        0       12 
+  4 04     10   2210       1    1068.05        0        0      .54          0        0        0 
+  41304  4 03  :    121   28068.17        0        0      .47         37        0       37 
+  41304  41303  :2208       1     100068        0        0      .54         70        0       70 
+   1304

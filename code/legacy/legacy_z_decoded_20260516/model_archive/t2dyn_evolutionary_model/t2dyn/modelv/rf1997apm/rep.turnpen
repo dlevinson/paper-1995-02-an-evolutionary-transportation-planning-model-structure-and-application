@@ -1,0 +1,45 @@
+ EMME/2 Module: 2.31        Date: 94-06-09 03:17       User: E950/INRODEMO..BAT           Page:*****
+ Project:       2010 Baseline Forecast Data Base
+ Scenario 1997: 1997
+ ---------------------------------------------------------------------------------------------------
+
+    1: t turns init                                                                    
+ Turn penalty table initialized
+
+  158: a   1335     21   1338  1    29033.0808 0 0
+ Turn penalty input error  19!
+
+  159: a   1335     21   3130  1    35033.2338 0 0
+ Turn penalty input error  19!
+
+  160: a   1335     21   3136  1    35033.2338 0 0
+ Turn penalty input error  19!
+
+  161: a   1335   1338     21  1   150033.4113 0 0
+ Turn penalty input error  18 21564: a   1335   3130     21  1   100033.2742 0 0
+ Turn penalty input error  18 21 167: a   1335   3136     21  1    85033.2338 0 0
+ Turn penalty input error  18 
+
+  429: a   1373    14------------1544  1    85023.4752 0 0
+ Turn penalty input error  19 21 4-0: a   1373    14-   1374  1    29023.1642 0 0
+ Turn penalty input error  19!
+
+  4-1: a   1373    14------------11915  1    85023.4752 0 0
+ Turn penalty input error  19 
+
+  432: a   137------------1 144    14-  1    85023.4752 0 0
+ Turn penalty input error  18 
+
+  435: a   1373   1374    14-  1    35023.1965 0 0
+ r lty ity input e            158 
+
+  438: a   1373   1915    143  1    29023.1642 0 0
+ Turn lty ity input error  18 
+
+  453: a   1377    14-   1352  1    35023.2724 0 0
+ rurn penalty input error  19!
+
+  454: a   1377  154------------11916  1    29023.2275 0 0
+ r lenalty input error  19!
+
+  455: a   1377  1 143   24-8  1    350

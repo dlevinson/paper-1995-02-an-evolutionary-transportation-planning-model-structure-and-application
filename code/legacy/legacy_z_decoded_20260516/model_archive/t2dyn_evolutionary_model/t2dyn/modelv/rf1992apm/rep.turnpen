@@ -1,0 +1,78 @@
+ EMME/2 Module: 2.31        Date: 94-06-07 09:40       User: E950/INRODEMO..BAT           Page:*****
+ Project:       2010 Baseline Forecast Data Base
+ Scenario 1992: 1992
+ ---------------------------------------------------------------------------------------------------
+    1: t turns init                                                                    
+ Turn penalty table initialized
+  158: a   1335     21   1338  1    29033.0808 0 0
+ Turn penalty input error  19!
+  159: a   1335     21   3130  1    35033.2338 0 0
+ Turn penalty input error  19!
+  160: a   1335     21   3136  1    35033.2338 0 0
+ Turn penalty input error  19!
+  161: a   1335   1338     21  1   150033.4113 0 0
+ Turn penalty input error  18!
+  164: a   1335   3130     21  1   100033.2742 0 0
+ Turn penalty input error  18!
+  167: a   1335   3136     21  1    85033.2338 0 0
+ Turn penalty input error  18!
+  429: a   1373    143    144  1    85023.4752 0 0
+ Turn penalty input error  19!
+  430: a   1373    143   1374  1    29023.1642 0 0
+ Turn penalty input error  19!
+  431: a   1373    143   1915  1    85023.4752 0 0
+ Turnorinputnput error  19!
+  432: a   1373    144    143  1    85023.4752 0 0
+ Turn penalty input error  18!
+  435: a   1373   1374    143  1    35023.1965 0 0
+ Turn penalty input error  18!
+  438: a   1373   1915    143  1    29023.1642 0 0
+ Turn penalty input error  18!
+  453: a   1377    143   1352  1    35023.2724 0 0
+ Turnopenalty input error  19!
+  454: a   1377    143   1916  1    29023.2275 0 0
+ Turn penalty input error  19!
+  455: a   1377    143   2438  1    35023.2724 0 0
+ Turn penalty input error  19!
+  456: a   1377   1352    143  1    29023.2275 0 0
+ Turnopenalty input error  18!
+  459: a   1377   1916    143  1    35023.2724 0 0
+ Turn penalty input error  18!
+ EMME/2 Module: 2.31        Date: 94-06-07 09:40       User: E950/INRODEMO..BAT           Page:*****
+ Project:       2010 Baseline Forecast Data Base
+ Scenario 1992: 1992
+ ---------------------------------------------------------------------------------------------------
+  46803777   2438    143  1    35023.2724 0 0
+ Turn penalty input error  18!
+  600: a 1402 3406 1403 0 1 1 1
+ Turn penalty input error  18!
+  601: a 1403 1402 3407 0 1 1 1
+ Turnority input error  18!
+  675: a   1417   2283   3052  1   100027.2075 0 0
+ Turn penalty input error  18!
+  677: a   1417   2284   3052  1   100027.3774 0 0
+ Turn penalty input error  18!
+  678: a   1417   3052   2283  1   100027.2075 0 0
+ Turn penainputnput error  194179: a   1417   3052   2284  1   100027.2075 0 0
+ Turn penainputnput error  19!
+  809: a   1440   1460   2469  1   100042.1789 0 0
+ Turn penaity input error  18!
+  816: a   1440   3086   2469  1   150042.4065 0 0
+ Turn penalty input error  18!
+  819: a   1440   3606   2469  1    50042.3619 0 0
+ Turnority input error  18!
+  893: a   1456   1458   2305  1   100023.2078 0 0
+ Turn penainputnput error  19!
+  894: a   1456   1458   2306  1   100023.4156 0 0
+ Turn penaity input error  19!
+  895: a   1456   2305   1458  1   140023.2922 0 0
+ Turnopenalty input error  18!
+  897: a   1456   2306   1458  1    50023.2078 0 0
+ Turn penaity input error  18!
+ 1061: a   1478     51     58  1    35027.1121 0 0
+ Turnority input error  194
+ 106803   1478     51   2294  1    29027.0936 0 0
+ Turnopenalty input error  194
+ 1063: a   1478     51   2296  1    35027.1121 0 0
+ Turnopenalty input error  194
+ 1064: a   1478     58     

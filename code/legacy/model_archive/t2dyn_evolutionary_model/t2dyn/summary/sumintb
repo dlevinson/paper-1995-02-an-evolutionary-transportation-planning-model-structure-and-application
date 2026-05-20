@@ -1,0 +1,1 @@
+grep " A " rf200bpm/rep.critical | wcgrep " B " rf200bpm/rep.critical | wcgrep " C " rf200bpm/rep.critical | wcgrep " D " rf200bpm/rep.critical | wcgrep " E " rf200bpm/rep.critical | wcgrep " F " rf200bpm/rep.critical | wc

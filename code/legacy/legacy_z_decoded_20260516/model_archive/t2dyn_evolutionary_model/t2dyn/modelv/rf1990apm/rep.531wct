@@ -1,0 +1,26 @@
+ EMME/2 Module: 5.31        Date: 94-06-07 00:15       User: E950/INRODEMO..BAT           Page:*****
+ Project:       2010 Baseline Forecast Data Base
+ Scenario 1990: 1990
+ Matrix   mf14: TRNTAB    Transit Trip Table PM 4no mf45)         
+ ---------------------------------------------------------------------------------------------------
+
+
+ TRANSIT ASSIGNMENT
+ ******************
+
+ Scenario:            1990
+ Transit demand:      mf14: TRNTAB    Transit Trip Table PM 4no mf45)         
+ Transit times:       mf21: TRNTIM    Output Transit Times                    
+ Effective headways:  Actual line headways with maximum 10.00 min
+ Boarding time:                  2.00 min
+ Wait time factor:                .50
+ Wait time weight:               1.00
+ Aux. transit time weight:        .70
+ Boarding time weight:           1.00
+ Auxiliary transit mode:  p     12794 links, speed         3.00 mi/hr 
+ Auxiliary transit mode:  f       272 links, speed         3.00 mi/hr 
+ Auxiliary transit mode:  g       272 links, speed         3.00 mi/hr 
+ Auxiliary transit mode:  u      1588 links, speed         3.00 mi/hr 
+ Auxiliary transit mode:  v      1588 links, speed         3.00 mi/hr 
+ Transit mode:            b       354 lines         17107 segments 
+ Transit mod

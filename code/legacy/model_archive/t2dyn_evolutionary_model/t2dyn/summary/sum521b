@@ -1,0 +1,1 @@
+grep "Total v" rf200bpm/rep.521dd | tail -15 | awk '{x+=$3}END{print x/15}' 

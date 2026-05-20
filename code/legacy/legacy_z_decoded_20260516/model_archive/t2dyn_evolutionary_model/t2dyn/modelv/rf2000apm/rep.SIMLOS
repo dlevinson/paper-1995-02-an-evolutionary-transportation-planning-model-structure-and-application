@@ -1,0 +1,23 @@
+rep.SIMLOS (Simulated Level Of Service percentages)
+                    rt    A    B    C    D    E    F
+==============================================================
+00.Washington_DC      1  .02  .09  .30  .26  .27  .06
+00.Washington_DC      2  .06  .18  .33  .27  .14  .02
+00.Washington_DC      3  .08  .21  .31  .23  .13  .04
+00.Washington_DC      4  .01  .01  .09  .74  .14  .00
+00.Washington_DC     14  .05  .15  .31  .28  .18  .04
+00.Washington_DC     24  .06  .18  .31  .29  .13  .03
+02.Prince_Georges     1  .01  .04  .09  .52  .28  .05
+02.Prince_Georges     2  .04  .18  .31  .29  .14  .03
+02.Prince_Georges     3  .04  .16  .27  .27  .17  .08
+02.Prince_Georges     4  .03  .11  .24  .40  .13  .07
+02.Prince_Georges    14  .03  .09  .18  .43  .22  .05
+02.Prince_Georges    24  .04  .16  .29  .30  .15  .06
+03.Alexandria         1  .00  .04  .39  .44  .12  .02
+03.Alexandria         2  .14  .20  .34  .22  .08  .02
+03.Alexandria         3  .13  .29  .30  .15  .12  .01
+03.Alexandria         4  .06  .12  .20  .44  .00  .17
+03.Alexandria        14  .08  .16  .34  .29  .11  .02
+03.Alexandria        24  .13  .24  .31  .19  .10  .02
+04.Arlington          1  .01  .09======.0641  .28  .05
+04.Arlington          2  .06  .2

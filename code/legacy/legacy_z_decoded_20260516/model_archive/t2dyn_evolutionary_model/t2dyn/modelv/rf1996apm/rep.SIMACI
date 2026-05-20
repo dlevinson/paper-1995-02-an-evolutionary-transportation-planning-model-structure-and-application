@@ -1,0 +1,22 @@
+rep.SIMACI (Simulated Average Congestion Index)
+                     VC1  VC2  VC3  VC4  VC14  VC24
+==============================================================
+00.Washington_DC      .75  .62  .61  .78  .67  .63
+02.Prince_Georges     .82  .64  .74  .75  .76  .69
+03.Alexandria         .73  .55  .54  .71  .63  .55
+04.Arlington          .79  .61  .55  .56  .71  .58
+05.Fairfax            .84  .73  .75  .77  .78  .74
+06.Loudoun            .37  .62  .98  .72  .67  .69
+07.Prince_William     .64  .67  .79  .79  .71  .74
+08.Charles            .00  .00  .00  .00  .00  .00
+09.Frederick          .59  .64  .55  .64  .60  .61
+10.Baltimore_City     .53  .59  .55  .00  .56  .58
+11.Baltimore_Co       .68  .72  .81  .00  .72  .76
+12.Harford            .55  .82  .80  .00  .72  .81
+13.Carroll            .57  .46  .67  .00  .64  .65
+14.Howard             .81  .90  .82  .00  .83  .86
+15.Anne_Arundel       .78  .83  .82  .00  .80  .8320.BETHESDA_CHEVY_CH 1.01  .55  .61  .66  .82  .5821.SILVER_SPRING      .91 1.04 1.10  .88  .99 1.03
+22.POTOMAC           1.05  .71  .60  .80  .86  .69
+23.N_BETHESDA        1.01  .55  .61  .67  .70  .5924.ROCKVILLE          .90  .59  .42  .64  .73  .5625.KENSINGTON_WHEATO  .90  .60  .49  .83  .66  .60
+26.ASPEN_HILL         .00  .74  .73  .45  .71  .71
+27.FAIRLAND_WHITE_OA  .88  .57  .6

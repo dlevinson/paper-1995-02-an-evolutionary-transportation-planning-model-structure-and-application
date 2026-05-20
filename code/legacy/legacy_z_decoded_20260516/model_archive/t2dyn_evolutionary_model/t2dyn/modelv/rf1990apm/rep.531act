@@ -1,0 +1,22 @@
+ EMME/2 Module: 5.31        Date: 94-06-07 00:18       User: E950/INRODEMO..BAT           Page:*****
+ Project:       2010 Baseline Forecast Data Base
+ Scenario 1990: 1990
+ Matrix   mf45: krtran    Kiss and Ride Origin to Lot Trip        
+ ---------------------------------------------------------------------------------------------------
+
+
+ TRANSIT ASSIGNMENT
+ ******************
+
+ Scenario:            1990
+ Transit demand:      mf45: krtran    Kiss and Ride Origin to Lot Trip        
+ Transit times:       mf21: TRNTIM    Output Transit Times - ACTTRNTIM        
+ Effective headways:  Actual line headways with maximum 15.00 min
+ Boarding time:       User defined node data #1
+ Wait time factor:                .50
+ Wait time weight:               1.00
+ Aux. transit time weight:        .70
+ Boarding time weight:           1.00
+ Auxiliary transit mode:  p     12794 links, speed         3.00 mi/hr 
+ Auxiliary transit mode:  f       272 links, speed         3.00 mi/hr 
+ Auxiliary transit mode:  g       272 links, speed         3.00 mi/hr 
