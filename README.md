@@ -1,5 +1,9 @@
 # An Evolutionary Transportation Planning Model: Structure And Application
 
+## Contribution
+
+This paper introduces an evolutionary alternative to transportation models that assume an instantaneous perfect equilibrium. By representing household relocation, job switching, bounded information, and the costs of changing behavior over successive time periods, it links work-trip patterns to realistic adjustment processes and makes forecasts sensitive to history and initial conditions.
+
 ## Bibliographic Information
 
 - Row ID: `paper-1995-02`
